@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**erickpwg/erickpwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sou o Erick 😁
 
-Here are some ideas to get you started:
+Desenvolvedor Full-Stack com foco em operações técnicas. Experiência com JavaScript (Node.js, Angular), Lua, automação de fluxos, APIs REST e WebSocket.
+Apaixonado por desenvolver soluções que melhoram processos e otimizam atendimentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias Utilizadas 🤯
+
+- Lua
+- Node.js
+- Angular
+- MySQL
+- RxJS
+- WebSocket
+- JWT
+
+## Funcionalidades 👾
+
+- 💬 Fluxos conversacionais
+- ⚙️ Scripting com Lua
+- 🔐 Autenticação JWT
+- 🌐 API REST + WebSocket
+- 📊 Painel com métricas e logs simulados
