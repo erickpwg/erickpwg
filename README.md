@@ -1,8 +1,67 @@
-### <h1 align="center">Olá, eu sou Erick 👋</h1>
-<h3>Desenvolvedor Full-Stack com foco em operações técnicas. Experiência com JavaScript (Node.js, Angular), Lua, automação de fluxos, APIs REST e WebSocket.
-Apaixonado por desenvolver soluções que melhoram processos e otimizam atendimentos.</h3>
+<h1 align="center">Hi, I'm Erick 👋</h1>
 
-### 🚀 Tecnologias Utilizadas:
+<p align="center">
+Full-Stack Developer focused on building scalable and efficient solutions.<br/>
+Experience with JavaScript (Node.js, Angular), Lua, REST APIs, WebSocket, and process automation.
+</p>
 
+---
 
-<p> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.lua.org/portugues.html" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=42bqS7y7Ga9o&format=png&color=000000" alt="typescript" width="40" height="40"/><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+
+I'm a Full-Stack Developer passionate about building systems that improve operational efficiency and automate real-world processes.
+
+Currently working with chatbot automation and system integrations, focusing on:
+- Real-time data processing
+- API integrations (REST & WebSocket)
+- Conversational flows and automation
+- Scalable backend solutions
+
+I enjoy solving complex problems and turning them into practical, efficient, and maintainable solutions.
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://img.icons8.com/?size=100&id=42bqS7y7Ga9o&format=png&color=000000" width="40" />
+</p>
+
+---
+
+## 💡 Core Skills
+
+- JavaScript (ES6+) & TypeScript  
+- Node.js & Backend Development  
+- REST APIs & WebSocket Integration  
+- Chatbot Development & Automation  
+- System Integration & Real-time Data  
+- SQL & Database Management  
+- Clean Code & Scalable Architecture  
+
+---
+
+## 📈 What I Focus On
+
+- Automating processes and reducing manual work  
+- Building reliable and scalable backend systems  
+- Improving system performance and response time  
+- Creating efficient integrations between systems  
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/erickpwg" target="_blank">GitHub</a> •
+  <a href="https://linkedin.com/in/erick-wagner-" target="_blank">LinkedIn</a>
+</p>
