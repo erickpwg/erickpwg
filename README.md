@@ -63,6 +63,6 @@ I enjoy solving complex problems and turning them into practical, efficient, and
 
 <p align="center">
   <a href="https://github.com/erickpwg" target="_blank">GitHub</a> •
-  <a href="https://linkedin.com/in/erick-wagner-" target="_blank">LinkedIn</a>
+  <a href="https://linkedin.com/in/erick-wagner-" target="_blank">LinkedIn</a> •
   <a href="https://www.erickwagner.dev/" target="_blank">Portfólio</a>
 </p>
